@@ -46,3 +46,14 @@ Email me: patrickgp1992@hotmail.com
 # Test
 
 N/A
+
+# Screenshots
+
+Landing Page with the ability for Users to create a Pizza
+<img width="1624" alt="Screen Shot 2022-09-20 at 9 52 24 AM" src="https://user-images.githubusercontent.com/86730331/191277755-1b7871a6-0311-40da-b3c0-639115ec05e1.png">
+
+A Completed Pizza creation showcasing toppings, size, etc and the ability to comment
+<img width="1624" alt="Screen Shot 2022-09-20 at 9 53 15 AM" src="https://user-images.githubusercontent.com/86730331/191277817-81df2ae8-5979-4512-8217-1f1a05ffd734.png">
+
+A Comment with an attached reply
+<img width="1624" alt="Screen Shot 2022-09-20 at 9 53 29 AM" src="https://user-images.githubusercontent.com/86730331/191277984-6f26615c-75f0-41bf-82a8-a52e447ce305.png">
